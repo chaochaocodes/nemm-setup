@@ -22,6 +22,7 @@ app.get('/', (req, res) => {
     res.send('You are on Home!')
 })
 
+// test routes here! then refactor into routes folder
 // app.get('/posts', (req, res) => {
 //     res.send('You are on Posts!')
 // })
